@@ -1,0 +1,7 @@
+{
+  "name": "AXIOM Editor",
+  "description": "Build logic. Define worlds. Scientific programming environment for mathematics, formal logic, axioms, and world simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
